@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Máy tính\test\lucnguyen\lucnguyen\bin\Debug\net8.0-windows\lucnguyen.exe
+C:\Users\Admin\OneDrive\Máy tính\test\lucnguyen\lucnguyen\bin\Debug\net8.0-windows\lucnguyen.deps.json
+C:\Users\Admin\OneDrive\Máy tính\test\lucnguyen\lucnguyen\bin\Debug\net8.0-windows\lucnguyen.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\test\lucnguyen\lucnguyen\bin\Debug\net8.0-windows\lucnguyen.dll
+C:\Users\Admin\OneDrive\Máy tính\test\lucnguyen\lucnguyen\bin\Debug\net8.0-windows\lucnguyen.pdb
+C:\Users\Admin\OneDrive\Máy tính\test\lucnguyen\lucnguyen\obj\Debug\net8.0-windows\lucnguyen.Form1.resources
+C:\Users\Admin\OneDrive\Máy tính\test\lucnguyen\lucnguyen\obj\Debug\net8.0-windows\lucnguyen.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\test\lucnguyen\lucnguyen\obj\Debug\net8.0-windows\lucnguyen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\test\lucnguyen\lucnguyen\obj\Debug\net8.0-windows\lucnguyen.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\test\lucnguyen\lucnguyen\obj\Debug\net8.0-windows\lucnguyen.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\test\lucnguyen\lucnguyen\obj\Debug\net8.0-windows\lucnguyen.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\test\lucnguyen\lucnguyen\obj\Debug\net8.0-windows\lucnguyen.dll
+C:\Users\Admin\OneDrive\Máy tính\test\lucnguyen\lucnguyen\obj\Debug\net8.0-windows\refint\lucnguyen.dll
+C:\Users\Admin\OneDrive\Máy tính\test\lucnguyen\lucnguyen\obj\Debug\net8.0-windows\lucnguyen.pdb
+C:\Users\Admin\OneDrive\Máy tính\test\lucnguyen\lucnguyen\obj\Debug\net8.0-windows\lucnguyen.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\test\lucnguyen\lucnguyen\obj\Debug\net8.0-windows\ref\lucnguyen.dll
